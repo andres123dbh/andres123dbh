@@ -9,9 +9,9 @@
   </div>
   
   <h1>
-  Hey there  
+  Hello  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  ,I'm Andres David Bonilla Higuera
+  ,my name is Andres David Bonilla Higuera
   </h1>
   
   ![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres123dbh&show_icons=true&theme=transparent)
